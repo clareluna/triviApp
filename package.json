@@ -1,0 +1,19 @@
+{
+  "name": "triviapp",
+  "version": "0.1.0",
+  "description": "trivia app MEAN framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clareluna/triviApp.git"
+  },
+  "author": "Clare Monahan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clareluna/triviApp/issues"
+  },
+  "homepage": "https://github.com/clareluna/triviApp#readme"
+}
